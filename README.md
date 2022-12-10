@@ -47,7 +47,6 @@
 
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pijeomah&theme=dark)](https://git.io/streak-stats)
-<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pijeomah)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
