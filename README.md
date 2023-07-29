@@ -12,20 +12,20 @@
 </div>
 <div align ="center"><img src="https://komarev.com/ghpvc/?username=pijeomah&style=flat-square&color=blue" alt=""/></div>
 
-<h3 align="center">A full stack software developer from Nigeria</h3>
+<h3 align="center"> Full stack software developer</h3>
 <div align= "center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></div>
 
-- 🔭 I’m currently working on **my first CRUD APP**
+- 🔭 I’m currently working on **building exciting projects**
 
-- 🌱 I’m currently learning **async/await functions, node.js**
+- 🌱 I’m currently learning **React/ React Native**
 
 - 👨‍💻 All of my projects are available at [promiseijeomah.netlify.app](promiseijeomah.netlify.app)
 
-- 💬 Ask me about **html/css**
+- 💬 Ask me about **Full stack web development**
 
 - 📫 How to reach me **ijeomahpromise@gmail.com**
 
-- ⚡ Fun fact **I love fantasy and the Golden State Warriors**
+- ⚡ Fun fact **I level learning new things, reading, and the Golden State Warriors **
 
 
 
