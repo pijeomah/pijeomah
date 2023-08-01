@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ijeomahpromise@gmail.com**
 
-- ⚡ Fun fact **I level learning new things, reading, and the Golden State Warriors **
+- ⚡ Fun fact **I love learning new things, reading, and the Golden State Warriors **
 
 
 
