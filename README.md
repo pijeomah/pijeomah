@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [promiseijeomah.netlify.app](promiseijeomah.netlify.app)
 
-- 💬 Ask me about **Full stack web development**
+- 💬 Ask me about **Fullstack web development**
 
 - 📫 How to reach me **ijeomahpromise@gmail.com**
 
