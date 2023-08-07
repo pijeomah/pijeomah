@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Promise</h1>
+<h1 align="center">Hi, I'm Promise</h1>
 <div align ="center">
 <img src= "https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width = "150"></img>
 </div>
